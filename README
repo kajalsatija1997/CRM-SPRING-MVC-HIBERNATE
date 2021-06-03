@@ -1,0 +1,13 @@
+Customer Realtionship Manager helps to:
+
+Use of HTML, CSS, JSP, Hibrnate 5 and Spring MVC technologies.
+
+Functionalities-
+
+1. Add a new customer using Hiberate with the help of Add button.
+2. Update an existing customer
+3. Delete an existing customer
+4. List all the customers present
+5. Sort the customers based on First name, last name or email. By default - Last name sorting
+7. Searching of customers
+  a) If search customer field is blank- Search all the customers
